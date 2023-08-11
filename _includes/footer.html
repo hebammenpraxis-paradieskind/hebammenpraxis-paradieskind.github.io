@@ -1,15 +1,16 @@
 <!-- Footer -->
-<footer class="footer" id="footer" style="background-color: white">
+<footer class="bg-light footer" id="footer" style="background-color: white">
   <div class="container">
-    {% if site.locale and site.locale != "" and site.locale != nil %}
+    <!-- Copyright -->
     <div class="row align-items-center">
-      <div class="col-md-4">
-        <span class="copyright"
-          >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
-        >
+      <div class="col-md-12">
+        <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
       </div>
-      <!-- Social Media -->
-      <div class="col-md-4">
+    </div>
+
+    <!-- Social Media -->
+    <div class="row align-items-center">
+      <div class="col-md-12">
         <ul class="list-inline social-buttons">
           {% for link in site.data.sitetext[site.locale].footer.social %}
           <li class="list-inline-item">
@@ -22,52 +23,32 @@
           {% endfor %}
         </ul>
       </div>
-      <!-- Legal -->
-      <div class="col-md-4">
-        <ul class="list-inline quicklinks">
-          <li class="list-inline-item">
-            <a href="legal"
-              >{{ site.data.sitetext[site.locale].footer.legal | default:
-              "Privacy Policy" }}</a
-            >
-          </li>
-        </ul>
-      </div>
     </div>
-    {% else %}
+
+    <!-- Legal -->
     <div class="row align-items-center">
-      <div class="col-md-4">
-        <span class="copyright"
-          >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
-        >
-      </div>
-      <!-- Social Media -->
-      <div class="col-md-4">
-        <ul class="list-inline social-buttons">
-          {% for link in site.data.sitetext.footer.social %}
-          <li class="list-inline-item">
-            {% if link.url %}
-            <a href="{{ link.url }}">
-              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-            </a>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-      <!-- Legal -->
-      <div class="col-md-4">
+      <div class="col-md-12">
         <ul class="list-inline quicklinks">
+
           <li class="list-inline-item">
-            <a href="legal"
-              >{{ site.data.sitetext.footer.legal | default:
-              "Privacy Policy" }}</a
-            >
+            <a href="/">{{ site.data.sitetext[site.locale].footer.home | default:
+              "home" }}</a>
           </li>
+
+          <li class="list-inline-item">
+            <a href="datenschutz">{{ site.data.sitetext[site.locale].footer.legal | default:
+              "Privacy Policy" }}</a>
+          </li>
+
+          <li class="list-inline-item">
+            <a href="impressum">{{ site.data.sitetext[site.locale].footer.impressum | default:
+              "Privacy Policy" }}</a>
+          </li>
+
         </ul>
       </div>
     </div>
-    {% endif %}
+
   </div>
 </footer>
 {% if page.layout == "page" %}

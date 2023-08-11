@@ -61,19 +61,17 @@ es-CO:
 # -----------------
 de: &DEFAULT_DE
   nav:
-    - title: "Leistungen"
-      section: Leistungen
-    - title: "Portfolio"
-      section: Portfolio
     - title: "Über uns"
-      section: Ueber
-    - title: "Geschichte"
-      section: Geschichte
+      section: info
     - title: "Team"
-      section: Team
+      section: team
+    - title: "Leistungen"
+      section: leistungen
+    - title: "Kurse"
+      section: kurse
+    - title: "Zusatzangebote"
+      section: zusatzangebote
     - title: "Kontakt"
-      section: Kontakt
-    - title: "Quellcode des Themas"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      section: kontakt
 de-DE:
   <<: *DEFAULT_DE
