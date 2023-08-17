@@ -14,13 +14,30 @@ alt: Wochenbett
 
 ---
 
-In der Wochenbettbetreuung (umgangssprachlich auch als „Nachsorge“ bezeichnet) begleite ich dich in den ersten acht bis zwölf Wochen nach der Entbindung in Form von regelmäßigen Hausbesuchen. Nach Rücksprache stehe ich auch nach ambulanten Geburten zur Verfügung. In der Regel besuche und unterstütze ich dich am Anfang täglich. Im Verlauf passe ich die Besuche an deine Bedürfnisse und die Bedürfnisse deines Kindes an.
+Das Wochenbett bezeichnet die ersten acht Wochen nach der Geburt eines Kindes und ist eine einzigartige und emotionale Phase im Leben einer Mutter. Nach der aufregenden Geburt ist es wichtig, dass Mutter und Kind die Zeit finden, sich zu erholen, zu bonden und sich auf ihre neue Lebenssituation einzustellen. Wir als Hebammen möchten euch dabei helfen, diese Zeit zu einem unvergesslichen und entspannten Erlebnis werden zu lassen.
 
-Im Wochenbett kontrolliere ich unter anderem die Rückbildungsvorgänge, die beginnende Laktation der Brust und das allgemeine Befinden von Mutter und Kind nach der Geburt. Des Weiteren unterstütze ich dich beim Stillen bzw. bei Müttern die nicht Stillen beim Zubereiten des Fläschens. In diesem Zusammenhang biete ich auch Beikost- bzw. Breifrei-Beratungen an. Ich beobachte die Gewichtsentwicklung und das Gedeihen deines Kindes, gebe dir Tipps beim Umgang bzw. Handling (z.B. Baden, Wickeln, etc.) und vieles mehr. Bei Interesse berate ich dich gerne zu den Themen Tragen und Stoffwindeln.
+Die Begleitung durch eine Hebamme im Wochenbett ist eine wertvolle Ressource, die frischgebackene Familien in dieser einzigartigen Lebensphase liebevoll und kompetent begleitet. Die Unterstützung einer Hebamme fördert nicht nur die körperliche und emotionale Gesundheit von Mutter und Kind, sondern vermittelt auch Sicherheit und Vertrauen in der neuen Welt des Familienleben.
+Die Wochenbettbetreuung, auch umgangssprachlich als Nachsorge bezeichnet, die sowohl das Wohlbefinden der Mutter als auch die des Kindes im Fokus hat. Wir unterstützen euch als junge Familie in dieser neuen Lebensphase und geben wertvolle Hilfestellungen bei Fragen und Unsicherheiten rund um die Themen Stillen, Flaschennahrung, Babypflege, körperliche Erholung und die seelische Verfassung der Mutter nach der Geburt und vieles mehr.
 
-Um dich und dein Kind bei Problemen oder Beschwerden mit möglichst schonenden Methoden zur Seite zu stehen, greife ich bei meiner Arbeit als Hebamme gern auf alternative Heilmittel und Akupunktur zurück. 
+Unsere Betreuung ist vielfältig und individuell auf die Bedürfnisse der Familien angepasst. 
 
-Deine Krankenkasse übernimmt sowohl die Hebammenleistungen in der Schwangerschaft, als auch im Wochenbett. Aber auch nach dem Wochenbett übernimmt sie bei Fragen und Problemen, bis zum ersten Geburtstag deines Kindes bzw. bis zum Beenden der Stillzeit, die Kosten für weitere Hebammenkontakte.
+Zu unseren Tätigkeitsbereichen gehören unter anderem:
 
-Solltet ihr keine Hebamme mit freien Kapazitäten mehr gefunden haben, biete ich auch kurzfristig deutschlandweit Onlineberatungen sowohl für die Schwangerschaft, das Wochenbett und die Zeit danach an.
+- das Stillen oder Füttern unterstützen
+- Kontrolle der kindlichen Gewichtsentwicklung
+- Heilungsprozess des kindlichen Nabels überwachen
+- Beratung bei Babypflege und Handling
+- Anleitung beim ersten Baden
+- das Kind verstehen lernen
+
+- Beobachten der Rückbildungs- & Heilungsprozesse bei der Mutter
+- Hilfe bei wunden Brustwarzen, Milchstau oder Brustentzündung
+- zu den ersten Rückbildungsübungen anleiten
+
+Das Wochenbett ist eine Zeit der Freude, der Veränderungen und der Herausforderungen. Damit dieser Übergang in das neue Familienleben möglichst sanft und harmonisch verläuft, ist eine qualifizierte Hebammenbegleitung im Wochenbett von unschätzbarem Wert.
+Die hormonelle Umstellung und die neue Verantwortung als Mutter bzw. Eltern können zu emotionalen Herausforderungen führen, daher ist die seelische Begleitung mindestens genauso wichtig wie die körperliche. Daher stehen wir euch mit Rat und Trost zur Seite und helfen bei der Bewältigung dieser neuen Gefühle, damit ihr Stück für Stück in eure neue Rolle als Mutter und Vater reinwachsen könnt.
+
+Nach der Geburt eures Kindes besuchen wir euch zu Beginn jeden Tag zu Hause. Die Abstände der Besuche werden je nach Bedarf mit der Zeit langsam größer. Meist begleiten wir euch für die ersten acht bis zwölf Lebenswochen eures Kindes. Solltet ihr darüber hinaus noch auftretende Fragen oder Probleme haben, sind wir bis zum ersten Geburtstag bzw. bis zum Ende der Stillzeit weiterhin für euch da.
+
+Die Kosten für die Wochenbettbetreuung werden von den gesetzlichen Krankenkassen übernommen.
 
