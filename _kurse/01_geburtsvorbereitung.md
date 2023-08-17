@@ -13,3 +13,18 @@ image: assets/img/portfolio/geburtsvorbereitung_400x300.webp #main image, can be
 alt: Geburtsvorbereitung
 
 ---
+
+Die Schwangerschaft ist eine wundervolle Zeit voller Vorfreude, Hoffnung und Freude auf das neue Leben, das in Kürze in eure Familie kommen wird. Mit der Ankunft des kleinen Wunders tauchen jedoch auch viele Fragen und Unsicherheiten auf. Wie wird die Geburt verlaufen? Welche Techniken können mir helfen, die Wehen zu bewältigen? Wie kann ich mich am besten auf das Wochenbett vorbereiten?
+Genau hier kommt ein Geburtsvorbereitungskurs ins Spiel. Sie bieten werdenden Eltern die Möglichkeit, sich auf die bevorstehende Geburt vorzubereiten, sowohl physisch als auch emotional.
+
+Ein zentraler Aspekt von Geburtsvorbereitungskursen ist die Vermittlung von Informationen über den Verlauf der Schwangerschaft, der Geburt und das Wochenbett. Dieses Wissen gibt werdenden Eltern das Vertrauen, sich auf die natürlichen Prozesse ihres Körpers zu verlassen und Ängste zu minimieren.
+
+Die Teilnehmer*Innen lernen, die verschiedenen Phasen der Geburt zu verstehen, von den Anzeichen dafür bis hin zur Betreuung direkt nach der Geburt. Atemübungen, Entspannungstechniken und Bewegung können dabei helfen, mit den Herausforderungen der Wehen umzugehen und die Spannungen zu reduzieren. Ebenso werden mögliche medizinische Interventionen erläutert, damit die werdenden Eltern über ihre Möglichkeiten informiert sind und diese ggf. mit ihrer Hebamme und Geburtshelfern besprochen werden können.
+
+Geburtsvorbereitungskurse sind auch eine gute Gelegenheit, Kontakte zu knüpfen und sich mit anderen Paaren in ähnlichen Situationen auszutauschen. Es besteht die Gelegenheit Gefühle, Ängste und Fragen in einer vertrauensvollen Umgebung zu teilen. Das Wissen, dass man nicht alleine ist, kann beruhigend sein und Ängste reduzieren.
+
+Die Themen Stillen, Wochenbett, Babypflege und Handling werden ebenso besprochen wie die Eingewöhnung an das Leben als Eltern. Somit werden die werdenden Eltern auf das Leben nach der Geburt vorbereitet und ihre Fähigkeiten gestärkt, sich liebevoll und intuitiv um ihr neues Familienmitglied zu kümmern.
+
+Sowohl für die Schwangere als auch für ihre(n) Partner\*Innen ist ein Geburtsvorbereitungskurs gleichermaßen von Vorteil. Die Partner\*Innen können aktiv in den Geburtsprozess eingebunden werden, indem sie lernen, wie sie die werdende Mutter während der Entbindung bestmöglich unterstützen können. Aber auch für die Zeit nach der Geburt eures Kindes geben wir den Partner*Innen viele Hinweise und Tipps mit auf den Weg.
+
+Der Kurs umfasst 14 Stunden und findet einmal wöchentlich statt. Wir bieten euch die Möglichkeit, entweder in der Hebammenpraxis am Kurs teilzunehmen oder online von zu Hause aus. Die Kosten hierfür werden von den gesetzlichen Krankenkassen übernommen.
