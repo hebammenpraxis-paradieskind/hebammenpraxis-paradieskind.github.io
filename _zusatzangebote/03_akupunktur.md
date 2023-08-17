@@ -33,4 +33,4 @@ Häufige Beschwerden die mit Akupunktur behandelt werden können sind:
 
 Außerdem besteht die Möglichkeit der geburtsvorbereitenden Akupunktur ab der 37. Schwangerschaftswoche. Hier werden bis zum errechneten Entbindungstermin einmal wöchentlich Akupunkturnadeln gesetzt. Dies dient zu gegebener Zeit der Reifung des Muttermundes und dem Training der Gebärmutter für die Geburt und soll sich positiv auf die Geburtsdauer auswirken. Die Kosten pro Sitzung betragen 20€. Die Kosten werden seitens der Krankenkassen in der Regel nicht übernommen. 
 
-Bei Interesse an der Akupunktur, freuen wir uns über einen Anruf oder Email von dir. Die Akupunktor kann auch bei euch zuhause durchgeführt werden.
+Bei Interesse freuen wir uns über einen Anruf oder E-mail von dir. Die Akupunktur kann auch bei euch zu Hause durchgeführt werden.
