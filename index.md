@@ -1,5 +1,4 @@
 ---
 layout: home
-title: Hebammenpraxis Paradieskind
-description: Deine Hebammenpraxis in Jena für Schwangerschaft und Wochenbett
+description: Sie suchen eine Hebammenpraxis in Jena? Wir bieten Schwangerschaftsbegleitung, Wochenbettbetreuung, Kurse und vieles mehr an. Wir würden uns freuen dich begleiten zu dürfen.
 ---

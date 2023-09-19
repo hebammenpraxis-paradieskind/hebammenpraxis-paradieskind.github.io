@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title: Hebammenpraxis Paradieskind
 email: info@hebammenpraxis-paradieskind.de #this is also the email contact forms will go to
-description: Deine Hebammenpraxis in Jena für Wochenbett und Schwangerschaft
+description: Deine Hebammenpraxis in Jena
 author: Hebammenpraxis Paradieskind
 # logo: #optional, defaults to site title
 #   path: assets\img\clients\creative-market.jpg
