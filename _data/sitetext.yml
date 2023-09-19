@@ -430,7 +430,7 @@ de: &DEFAULT_DE
     people:
       - name: "Victoria Budack"
         role: "Freiberufliche Hebamme"
-        image: assets/img/team/victoria_budack.webp
+        image: assets/img/team/victoria_budack_300x300.webp
         telephone: "0152 02090641"
         website: "https://hebamme-victoriabudack.de"
         social:
@@ -442,7 +442,7 @@ de: &DEFAULT_DE
           #   icon: fab fa-linkedin-in
       - name: "Romy Förster"
         role: "Freiberufliche Hebamme"
-        image: assets/img/team/romy_foerster.webp
+        image: assets/img/team/romy_foerster_300x300.webp
         telephone: "0157 82697931"
         website: "https://www.hebamme-romy-jena.de"
         social:
