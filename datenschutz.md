@@ -2,6 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 background: white
+sitemap: false
 ---
 
 # Datenschutzerklärung

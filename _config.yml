@@ -13,12 +13,12 @@
 
 theme: jekyll-agency
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hebammenpraxis-paradieskind.de" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title: Hebammenpraxis Paradieskind
 email: info@hebammenpraxis-paradieskind.de #this is also the email contact forms will go to
-description: "Site description"
+description: Deine Hebammenpraxis in Jena für Wochenbett und Schwangerschaft
 author: Hebammenpraxis Paradieskind
 # logo: #optional, defaults to site title
 #   path: assets\img\clients\creative-market.jpg
@@ -38,3 +38,14 @@ markdown: kramdown
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Sitemap settings
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false

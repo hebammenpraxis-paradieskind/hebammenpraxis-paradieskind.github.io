@@ -2,6 +2,7 @@
 layout: page
 title: Impressum
 background: white
+sitemap: false
 ---
 
 # Impressum
