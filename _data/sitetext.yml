@@ -400,7 +400,8 @@ de: &DEFAULT_DE
       - "Willkommen in unserer Hebammenpraxis, einem Ort der Geborgenheit und Unterstützung für werdende Mütter und ihre Familien. 
       Wir freuen uns, euch auf eurer aufregenden Reise durch Schwangerschaft, Geburt und Wochenbett begleiten zu dürfen. Als erfahrene 
       Hebammen ermutigen wir dich auf deinen Körper und deine Intuition zu vertrauen und unterstützen euch auf eurem einzigartigen Weg 
-      zum Elternwerden."
+      zum Elternwerden. Unsere Praxisräume befinden sich in den Räumlichkeiten des 
+      [AWO Kindergartens Marie Juchacz](https://www.awo-mittewest-thueringen.de/kita-marie-juchacz-jena.html)."
       - "Zu unseren Angeboten findet ihr hier mehr!"
     section: info
 
@@ -460,10 +461,11 @@ de: &DEFAULT_DE
     address:
       - Hebammenpraxis Paradieskind
       - AWO Kita Marie Juchacz
-      - Schäfferstraße 1
+      - Schaefferstraße 1
       - 07743 Jena
     telephone: 0152 02090641
     email: info@hebammenpraxis-paradieskind.de
+    image: assets/img/awo-logo.svg
 
   contact:
     title: "Kontakt"

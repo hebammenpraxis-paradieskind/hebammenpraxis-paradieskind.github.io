@@ -9,18 +9,36 @@ sitemap: false
 
 --- 
 
-**Anschrift:** 
+<div class="row">
+    <div class="col-lg-8 mx-auto text-left">
 
-Hebammenpraxis Paradieskind
-<br>
-AWO Kita Marie Juchacz
-<br>
-Schäfferstraße 1
-<br>
-07743 Jena
+    <div style="margin-bottom: 1em;">
+        {% for paragraph in site.data.sitetext[site.locale].contact_simple.address %}
+        <div class="large text-muted address">{{ paragraph | markdownify }}</div>
+        {% endfor %}
+    </div>
 
-**Telefon:** <a href="tel:015202090641">0152 02090641</a>
+    {% for person in site.data.sitetext[site.locale].team.people %}
+    <div class="large text-muted address">
+        <p>
+        <i class="fas fa-mobile-alt" aria-hidden="true"></i>
+        {{ person.name }}:
+        <a href="tel:{{ person.telephone }}">{{
+            person.telephone }}</a>
+        </p>
+    </div>
+    {% endfor %}
 
-**Email:** <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <div class="large text-muted address">
+        <p>
+        <i class="fas fa-envelope" aria-hidden="true"></i>
+        <a href="mailto:{{ site.data.sitetext[site.locale].contact_simple.email }}">{{
+            site.data.sitetext[site.locale].contact_simple.email }}</a>
+        </p>
+    </div>
 
-**IK:** 451607857
+    <div class="large text-muted address">
+    <p><b>IK:</b> 451607857</p>
+    </div>    
+</div>
+
