@@ -10,7 +10,7 @@ sitemap: false
 --- 
 
 <div class="row">
-    <div class="col-lg-8 mx-auto text-left">
+    <div class="col-12 mx-auto text-left">
 
     <div style="margin-bottom: 1em;">
         {% for paragraph in site.data.sitetext[site.locale].contact_simple.address %}
