@@ -7,6 +7,15 @@
 				<h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].team.text }}</h3>
 			</div>
 		</div>
+
+		<div class="row">
+			<div class="col-lg-8 mx-auto text-justify">
+				{% for paragraph in site.data.sitetext[site.locale].team.subtext %}
+				<div class="large text-muted">{{ paragraph | markdownify }}</div>
+				{% endfor %}
+			</div>
+		</div>
+
 		<div class="row d-flex justify-content-center">
 			{% for person in site.data.sitetext[site.locale].team.people %}
 			<div class="col-sm-6">
@@ -25,22 +34,19 @@
 					</ul>
 					<div>
 						<h5>Kontakt</h5>
-						<i class="fas fa-mobile-alt" aria-hidden="true"></i>
-						<a href="tel:{{ person.telephone }}">{{ person.telephone }}</a>
+						<p>
+							<i class="fas fa-mobile-alt" aria-hidden="true"></i>
+							<a href="tel:{{ person.telephone }}">{{ person.telephone }}</a>
+						</p>
+						<p>
+							<i class="fas fa-globe" aria-hidden="true"></i>
+							<a href="{{ person.website }}">{{ person.website }}</a>
+						</p>
 					</div>
 
-					<div>
-						<i class="fas fa-globe" aria-hidden="true"></i>
-						<a href="{{ person.website }}">{{ person.website }}</a>
-					</div>
 				</div>
 			</div>
 			{% endfor %}
-		</div>
-		<div class="row">
-			<div class="col-lg-8 mx-auto text-center">
-				<div class="large text-muted">{{ site.data.sitetext[site.locale].team.subtext | markdownify }}</div>
-			</div>
 		</div>
 	</div>
 </section>

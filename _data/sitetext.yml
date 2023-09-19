@@ -399,9 +399,9 @@ de: &DEFAULT_DE
     body: 
       - "Willkommen in unserer Hebammenpraxis, einem Ort der Geborgenheit und Unterstützung für werdende Mütter und ihre Familien. 
       Wir freuen uns, euch auf eurer aufregenden Reise durch Schwangerschaft, Geburt und Wochenbett begleiten zu dürfen. Als erfahrene 
-      Hebammen ermutigen wir dich auf deinen Körper und deine Intuition zu vertrauen und unterstützen euch auf eurem einzigartigen Weg 
+      Hebammen ermutigen wir euch auf euren Körper und eure Intuition zu vertrauen und unterstützen euch auf eurem einzigartigen Weg 
       zum Elternwerden. Unsere Praxisräume befinden sich in den Räumlichkeiten des 
-      [AWO Kindergartens Marie Juchacz](https://www.awo-mittewest-thueringen.de/kita-marie-juchacz-jena.html)."
+      [AWO Kindergartens Marie Juchacz](https://www.awo-mittewest-thueringen.de/kita-marie-juchacz-jena.html) in Jena West."
       - "Zu unseren Angeboten findet ihr hier mehr!"
     section: info
 
@@ -426,7 +426,9 @@ de: &DEFAULT_DE
   team:
     title: "Die Hebammen"
     text: # "Lorem ipsum dolor sit amet consectetur."
-    subtext:
+    subtext: 
+      - Wir, [Victoria Budack](https://hebamme-victoriabudack.de) und [Romy Förster](https://www.hebamme-romy-jena.de), begleiten euch auf dem spannenden Weg der Schwangerschaft und des Elternwerdens und stehen euch mit Fachwissen und viel Empathie zur Seite. Wir bieten euch eine individuelle Betreuung an, die auf eure Bedürfnisse und Wünsche zugeschnitten ist. Von der Vorbereitung auf die Geburt bis zur liebevollen Unterstützung im Wochenbett sind wir für euch da, um sicherzustellen, dass ihr und euer Baby euch bestens aufgehoben fühlt.
+      - Neben unseren Tätigkeiten in der Hebammenpraxis, sind wir auch als freiberufliche Hebammen in Jena und Umgebung tätig. Hier erfahrt ihr mehr über uns. 
     section: team
     people:
       - name: "Victoria Budack"
@@ -445,7 +447,7 @@ de: &DEFAULT_DE
         role: "Freiberufliche Hebamme"
         image: assets/img/team/romy_foerster_300x300.webp
         telephone: "0157 82697931"
-        website: "https://www.hebamme-romy-jena.de"
+        website: "https://hebamme-romy-jena.de"
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
