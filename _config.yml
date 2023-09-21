@@ -16,7 +16,7 @@ theme: jekyll-agency
 url: "https://hebammenpraxis-paradieskind.de" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title: Paradieskind
+title: Hebammenpraxis Paradieskind
 email: info@hebammenpraxis-paradieskind.de #this is also the email contact forms will go to
 description: Deine Hebammenpraxis in Jena
 author: Hebammenpraxis Paradieskind
