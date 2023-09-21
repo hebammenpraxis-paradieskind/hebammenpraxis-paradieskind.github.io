@@ -21,6 +21,13 @@ email: info@hebammenpraxis-paradieskind.de #this is also the email contact forms
 description: Deine Hebammenpraxis in Jena
 author: Hebammenpraxis Paradieskind
 google_site_verification: S1ZgmUCa19ifQx4c1O6ry4N11QbEqCTcMjuNEVtALxw
+webmaster_verifications:
+  google: S1ZgmUCa19ifQx4c1O6ry4N11QbEqCTcMjuNEVtALxw
+  bing: A6D940310C7D7F0F3591CB34A5A673E9
+  alexa:
+  yandex:
+  baidu:
+  facebook:
 # logo: #optional, defaults to site title
 #   path: assets\img\clients\creative-market.jpg
 #   height: 60 #height in px, defaults to 52px
