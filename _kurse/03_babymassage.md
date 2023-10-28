@@ -27,3 +27,5 @@ Die Durchführung einer Babymassage erfordert keine komplizierten Techniken oder
 Insgesamt kann die Babymassage eine wundervolle und bedeutungsvolle Erfahrung für Eltern und Babys sein. Sie fördert eine liebevolle Verbindung, verbessert das Wohlbefinden des Kindes und schafft Momente der Entspannung und Zuneigung im hektischen Alltag. Die Zeit, die während der Babymassage miteinander verbracht wird, stärkt die Bindung zwischen Eltern und Kind und schafft eine wertvolle Basis für eine liebevolle Beziehung in den kommenden Jahren.
 
 Der Kurs findet in der Hebammenpraxis statt und umfasst fünf Termine á 60 Minuten. Die Kosten belaufen sich auf 75€.
+
+Wir bieten vom 07.11.2023 bis 05.12.2023 (jeden Dienstag) von 11-12 Uhr einen **Babymassagekurs** an. Die Kosten des Kurses belaufen sich auf insgesamt 75€. Die Anmeldung erfolgt über [info@hebammenpraxis-paradieskind.de](mailto:info@hebammenpraxis-paradieskind.de) oder telefonisch [0157 82697931](tel:+4915782697931).
