@@ -41,3 +41,5 @@ Rückbildungskurse sind speziell konzipierte Kurse, die darauf abzielen, den Kö
 Es wird empfohlen, etwa sechs bis acht Wochen nach der Geburt mit dem Rückbildungskurs zu beginnen. Dies gibt dem Körper genügend Zeit, sich zu erholen, und ermöglicht eine gezielte Unterstützung des Rückbildungsvorgangs. Sinnvoll ist jedoch individuell zu entscheiden, wann für jede Frau der richtige Zeitpunkt für die Rückbildung ist.
 
 Der Kurs umfasst zehn Stunden und findet einmal wöchentlich statt. Wir bieten euch die Möglichkeit, entweder in der Hebammenpraxis am Kurs teilzunehmen oder online von zu Hause aus. Die Kosten hierfür werden von den gesetzlichen Krankenkassen übernommen.
+
+**Wir bieten vom 23.11.23-25.01.24 von 11:30-12:45 Uhr einen Rückbildungskurs mit Kind an. Ihr könnt entweder Online oder in Präsenz teilnehmen. Die Anmeldung erfolgt unter 01520/2090641 oder per E-Mail an [info@hebammenpraxis-paradieskind.de](mailto:info@hebammenpraxis-paradieskind.de).**
