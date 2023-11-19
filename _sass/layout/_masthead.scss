@@ -17,13 +17,15 @@ header.masthead {
       font-size: 32px;
       font-weight: 700;
       margin-bottom: 25px;
+      letter-spacing: 0.1em;
       color: $primary;
       text-shadow: 0 0 6px $white, 0 0 6px $white, 0 0 6px $white, 0 0 6px $white; 
       @include script-font;
     }
     .intro-heading {
       font-size: 20px;
-      font-style: italic;
+      letter-spacing: 0.1em;
+      // font-style: italic;
       margin-bottom: 25px;
       color: $white;
       // text-shadow: 0 0 4px $primary, 0 0 4px $primary, 0 0 4px $primary, 0 0 4px $primary; 
