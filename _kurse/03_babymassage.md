@@ -28,4 +28,4 @@ Insgesamt kann die Babymassage eine wundervolle und bedeutungsvolle Erfahrung f�
 
 Der Kurs findet in der Hebammenpraxis statt und umfasst fünf Termine á 60 Minuten. Die Kosten belaufen sich auf 75€.
 
-Wir bieten vom 07.11.2023 bis 05.12.2023 (jeden Dienstag) von 11-12 Uhr einen **Babymassagekurs** an. Die Kosten des Kurses belaufen sich auf insgesamt 75€. Die Anmeldung erfolgt über [info@hebammenpraxis-paradieskind.de](mailto:info@hebammenpraxis-paradieskind.de) oder telefonisch [0157 82697931](tel:+4915782697931).
+Wir bieten vom **03.01. bis 24.01.24** (jeden Mittwoch) von 11-12 Uhr einen **Babymassagekurs** an. Die Kosten des Kurses belaufen sich auf insgesamt 60€. Die Anmeldung erfolgt über [info@hebammenpraxis-paradieskind.de](mailto:info@hebammenpraxis-paradieskind.de) oder telefonisch [0157 82697931](tel:+4915782697931).
