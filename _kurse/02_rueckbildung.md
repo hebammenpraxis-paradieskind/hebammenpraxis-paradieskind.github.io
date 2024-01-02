@@ -42,4 +42,4 @@ Es wird empfohlen, etwa sechs bis acht Wochen nach der Geburt mit dem Rückbildu
 
 Der Kurs umfasst zehn Stunden und findet einmal wöchentlich statt. Wir bieten euch die Möglichkeit, entweder in der Hebammenpraxis am Kurs teilzunehmen oder online von zu Hause aus. Die Kosten hierfür werden von den gesetzlichen Krankenkassen übernommen.
 
-**Wir bieten vom 23.11.23-25.01.24 von 11:30-12:45 Uhr einen Rückbildungskurs mit Kind an. Ihr könnt entweder Online oder in Präsenz teilnehmen. Die Anmeldung erfolgt unter 01520/2090641 oder per E-Mail an [info@hebammenpraxis-paradieskind.de](mailto:info@hebammenpraxis-paradieskind.de).**
+**Wir bieten vom 06.03.2024 bis 24.04.2024 von 11:00-12:15 Uhr einen Rückbildungskurs mit Kind an. Ihr könnt entweder Online oder in Präsenz teilnehmen. Die Anmeldung erfolgt unter 01520/2090641 oder per E-Mail an [info@hebammenpraxis-paradieskind.de](mailto:info@hebammenpraxis-paradieskind.de).**
