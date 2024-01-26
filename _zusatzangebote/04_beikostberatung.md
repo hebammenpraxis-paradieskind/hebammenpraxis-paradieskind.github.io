@@ -29,3 +29,8 @@ Allerdings gibt es auch einige Herausforderungen bei der Umsetzung dieser Method
 Insgesamt bietet die babygeleitete Beikost eine interessante Alternative zur traditionellen Löffel-Fütterung. Jede Familie sollte jedoch ihre individuellen Bedürfnisse und Vorlieben berücksichtigen, wenn es um die Wahl der Beikostmethode geht.
 
 Die Beratung kostet 45€, dauert ca. eine Stunde und kann auch online stattfinden.
+
+"Wir bieten am **13.03.2024** von 9-10:30 Uhr einen **Beikostkurs** zum Thema babygeleitete Beikost/Breifrei an. 
+      Die Kosten des Kurses belaufen sich auf insgesamt 20€. Die Anmeldung erfolgt über 
+      [info@hebammenpraxis-paradieskind.de](mailto:info@hebammenpraxis-paradieskind.de) 
+      oder telefonisch [015202090641](tel:+4915202090641)."
