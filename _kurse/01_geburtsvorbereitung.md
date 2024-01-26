@@ -27,4 +27,6 @@ Die Themen Stillen, Wochenbett, Babypflege und Handling werden ebenso besprochen
 
 Sowohl für die Schwangere als auch für ihre(n) Partner\*Innen ist ein Geburtsvorbereitungskurs gleichermaßen von Vorteil. Die Partner\*Innen können aktiv in den Geburtsprozess eingebunden werden, indem sie lernen, wie sie die werdende Mutter während der Entbindung bestmöglich unterstützen können. Aber auch für die Zeit nach der Geburt eures Kindes geben wir den Partner*Innen viele Hinweise und Tipps mit auf den Weg.
 
-Der Kurs umfasst 14 Stunden und findet einmal wöchentlich statt. Wir bieten euch die Möglichkeit, entweder in der Hebammenpraxis am Kurs teilzunehmen oder online von zu Hause aus. Die Kosten hierfür werden von den gesetzlichen Krankenkassen übernommen.
+Der Kurs umfasst meist 14 Stunden und findet einmal wöchentlich statt. Die Kosten hierfür werden von den gesetzlichen Krankenkassen übernommen.
+
+**Der nächste Geburtsvorbereitungskurs findet vom 08.04.2024-13.05.2024 von 17-19:30 Uhr bei uns in der Praxis statt. Am 15.04.2024 ist der Kursabend nur mit den Schwangeren. Die Kosten für die Begleitperson belaufen sich auf 100€. Die Anmeldung erfolgt direkt über Katja Müller [https://www.hebammekatjamueller.de]**
