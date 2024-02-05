@@ -24,4 +24,4 @@ Ein Kurs erstreckt sich meist über 8-10 Termine zu je 75 Minuten (bzw. 90 Minut
 
 ##### Nächster Kurs:
 
-Der nächste FenKid® Kurs für Kinder die zwischen September bis Anfang Dezember 2023 geboren sind, findet zwischen dem 05.03. bis 30.04.2024 jeweils dienstags (außer am 26.3. und 02.04.) von 9:00 - 10:30 Uhr statt. Die Gesamtkosten für den Kurs betragen 122,50€. 
+Der nächste FenKid® Kurs für Kinder die zwischen September bis Anfang Dezember 2023 geboren sind, findet zwischen dem 04.03. bis 29.04.2024 jeweils dienstags (kein Kurs am 25.03. und 01.04.) von 13:30 - 14:45 Uhr statt. Die Gesamtkosten für den Kurs betragen 122,50€. 
