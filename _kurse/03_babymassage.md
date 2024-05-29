@@ -28,3 +28,5 @@ Insgesamt kann die Babymassage eine wundervolle und bedeutungsvolle Erfahrung f�
 
 Der Kurs findet in der Hebammenpraxis statt und umfasst fünf Termine á 60 Minuten. Die Kosten belaufen sich auf 75€.
 
+**Derzeit sind keine neuen Babymassagekurse geplant**
+
