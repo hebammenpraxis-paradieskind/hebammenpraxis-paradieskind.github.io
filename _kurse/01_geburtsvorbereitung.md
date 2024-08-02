@@ -27,6 +27,6 @@ Die Themen Stillen, Wochenbett, Babypflege und Handling werden ebenso besprochen
 
 Sowohl für die Schwangere als auch für ihre(n) Partner\*Innen ist ein Geburtsvorbereitungskurs gleichermaßen von Vorteil. Die Partner\*Innen können aktiv in den Geburtsprozess eingebunden werden, indem sie lernen, wie sie die werdende Mutter während der Entbindung bestmöglich unterstützen können. Aber auch für die Zeit nach der Geburt eures Kindes geben wir den Partner*Innen viele Hinweise und Tipps mit auf den Weg.
 
-Der Kurs umfasst meist 14 Stunden und findet einmal wöchentlich statt. Die Kosten hierfür werden von den gesetzlichen Krankenkassen übernommen.
+Der Kurs umfasst meist 14 Stunden und findet einmal wöchentlich statt. Die Kosten für die Schwangere werden von den gesetzlichen Krankenkassen übernommen. Die Begleitperson zahlt 100€ und bekommt am Ende des Kurses eine Teilnahmebestätigung und kann versuchen die Kosten bei der Krankenkasse geltend zu machen.
 
-**Der nächste Geburtsvorbereitungskurs findet vom 14.05.2024 bis 18.06.2024 von 17:00 - 19:00 Uhr bei uns in der Praxis statt. Die Kosten für die Begleitperson belaufen sich auf 100€. Die Anmeldung erfolgt hier: [https://terminplanung.hebammen-azh.de/HebammeKatjaMüller](https://terminplanung.hebammen-azh.de/HebammeKatjaMüller)**
+**Der nächste Geburtsvorbereitungskurs findet vom 15.10. - 19.11.24 von 17:00 - 19:00 Uhr bei uns in der Praxis statt. Die Anmeldung erfolgt hier: [https://my.hebammen-betreuung.de/app/667006ab79a06]**
