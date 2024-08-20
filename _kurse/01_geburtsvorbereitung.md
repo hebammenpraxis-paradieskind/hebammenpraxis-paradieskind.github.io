@@ -29,4 +29,4 @@ Sowohl für die Schwangere als auch für ihre(n) Partner\*Innen ist ein Geburtsv
 
 Der Kurs umfasst meist 14 Stunden und findet einmal wöchentlich statt. Die Kosten für die Schwangere werden von den gesetzlichen Krankenkassen übernommen. Die Begleitperson zahlt 100€ und bekommt am Ende des Kurses eine Teilnahmebestätigung und kann versuchen die Kosten bei der Krankenkasse geltend zu machen.
 
-**Der nächste Geburtsvorbereitungskurs findet vom 15.10. - 19.11.24 von 17:00 - 19:00 Uhr bei uns in der Praxis statt. Die Anmeldung erfolgt hier: [https://my.hebammen-betreuung.de/app/667006ab79a06]**
+**Der nächste Geburtsvorbereitungskurs findet vom 15.10. - 19.11.24 von 17:00 - 19:00 Uhr bei uns in der Praxis statt. Die Anmeldung erfolgt hier: https://my.hebammen-betreuung.de/app/667006ab79a06**
