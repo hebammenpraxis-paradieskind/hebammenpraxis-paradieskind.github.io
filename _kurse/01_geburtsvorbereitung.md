@@ -29,6 +29,4 @@ Sowohl für die Schwangere als auch für ihre(n) Partner\*Innen ist ein Geburtsv
 
 Der Kurs umfasst meist 14 Stunden und findet einmal wöchentlich statt. Die Kosten für die Schwangere werden von den gesetzlichen Krankenkassen übernommen. Die Begleitperson zahlt 100€ und bekommt am Ende des Kurses eine Teilnahmebestätigung und kann versuchen die Kosten bei der Krankenkasse geltend zu machen.
 
-**Der nächste **Geburtsvorbereitungskurs** findet vom **21.01.2025-04.03.2025** von 17:00 - 19:30 Uhr bei uns in der Praxis statt. 
-      Die Kosten für die Begleitperson belaufen sich auf 100€. Am 04.02.2025 findet kein Kurs statt.
-      Die Anmeldung erfolgt direkt hier: [https://terminplanung.hebammen-azh.de/HebammeKatjaMüller](https://terminplanung.hebammen-azh.de/HebammeKatjaMüller)"**
+**Der nächste Geburtsvorbereitungskurs findet vom 21.01.2025-04.03.2025 von 17:00 - 19:30 Uhr bei uns in der Praxis statt.** Die Kosten für die Begleitperson belaufen sich auf 100€. Am 04.02.2025 findet kein Kurs statt. Die Anmeldung erfolgt direkt hier: [https://terminplanung.hebammen-azh.de/HebammeKatjaMüller](https://terminplanung.hebammen-azh.de/HebammeKatjaMüller)
