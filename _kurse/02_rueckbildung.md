@@ -42,4 +42,4 @@ Es wird empfohlen, etwa sechs bis acht Wochen nach der Geburt mit dem Rückbildu
 
 Der Kurs umfasst zehn Stunden und findet einmal wöchentlich statt. Wir bieten euch die Möglichkeit, entweder in der Hebammenpraxis am Kurs teilzunehmen oder online von zu Hause aus. Die Kosten hierfür werden von den gesetzlichen Krankenkassen übernommen.
 
-**Der nächste Rückbildungskurs findet vom 26.11.2024-28.01.2025 von 9:00-10:15 Uhr statt. Die Anmeldung erfolgt direkt hier: [https://terminplanung.hebammen-azh.de/HebammeKatjaMüller](https://terminplanung.hebammen-azh.de/HebammeKatjaMüller)**
+**Der nächste Rückbildungskurs findet vom 26.11.2024-28.01.2025 von 9:00-10:15 Uhr statt. Die Anmeldung erfolgt direkt hier: [https://my.hebammen-betreuung.de/app/667006ab79a06](https://my.hebammen-betreuung.de/app/667006ab79a06)**
